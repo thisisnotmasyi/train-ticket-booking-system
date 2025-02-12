@@ -1,16 +1,10 @@
 # train_ticket_booking_system
 
-A new Flutter project.
+Technical Assesment: Train Ticket Booking System WebApp
 
-## Getting Started
+## Presentation / ScreenRecord Video:
+- [Presentation Train Ticket Booking System Web App](https://drive.google.com/drive/folders/1C6c-TJYE6sJ5uIaU1UlS3ISYq15WpkLX?usp=sharing)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
