@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8251142919",
+    "project_id": "train-ticket-booking-sys-ad99e",
+    "storage_bucket": "train-ticket-booking-sys-ad99e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8251142919:android:50c04f9159476a35770ba2",
+        "android_client_info": {
+          "package_name": "com.example.train_ticket_booking_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVfJ9NDKQufiEyOyTPKLgQOPi7rdTyQ7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
